@@ -1,6 +1,7 @@
 # RAG-Based
 Deploying RAG
 
+
 🧠 RAG-Powered PDF Q&A App
 
 -This Streamlit app implements a Retrieval-Augmented Generation (RAG) pipeline using:
@@ -17,6 +18,8 @@ Deploying RAG
 
 -It allows users to upload a PDF document, processes the text, and then enables contextual Q&A over that document.
 
+
+
 🚀 Features
 
 -🔍 Extracts text from uploaded PDFs
@@ -30,6 +33,7 @@ Deploying RAG
 -🤖 Uses Google Gemini (2.0 Flash) for answering user queries
 
 -💬 Simple Streamlit interface with interactive Q&A
+
 
 
 📷 App Interface
